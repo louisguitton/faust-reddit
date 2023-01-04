@@ -1,0 +1,5 @@
+praw
+python-dotenv
+tqdm
+boto3
+faust
